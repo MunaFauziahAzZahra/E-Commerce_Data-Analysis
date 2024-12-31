@@ -9,7 +9,7 @@ Pertanyaan Bisnis:
 
 # Conclusion
 1. Performa penjualan dan revenue selama 3 tahun terakhir terus meningkat bahkan menembus trendline. Titik tertinggi revenue berada di nilai > 10 jt dan total order > 50 rb
-2. Product
+2. Product    
      Top 5 Best Performing product yaitu:
    1. Bed bath table
    2. Health beauty
