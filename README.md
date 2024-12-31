@@ -15,7 +15,7 @@ Pertanyaan Bisnis:
    2. Health beauty
    3. Computer accessoris
    4. Furniture decor
-   5. Watches gifts
+   5. Watches gifts   
       Bottom Worst Performing Product
    1. Security and services
    2. Fashion childrens clothes
