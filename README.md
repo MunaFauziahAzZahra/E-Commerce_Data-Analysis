@@ -29,10 +29,10 @@ Access this link for open https://e-commercedata-analysis.streamlit.app/
 
 # Screenshoot Cloud Streamlit
 Total Payment Value by Year with Trendline
-![image](https://github.com/user-attachments/assets/ab6dca10-2a7b-48ef-81ce-13fb66844fec)
+![image](https://github.com/user-attachments/assets/33ee0bc5-9bf4-4558-9d33-af6562073e2a)
 
 Total Number of Annual Orders with Trendline
-![image](https://github.com/user-attachments/assets/ebff482c-a63e-41ed-ae50-cecae2378125)
+![image](https://github.com/user-attachments/assets/a0e9f4d9-bea8-45a1-8d58-30f4b58371ee)
 
 Monthly Revenue Heatmap and Monthly Order Heatmap
 ![image](https://github.com/user-attachments/assets/b88c3b2c-009c-4a51-82ea-04476f88a4d1)
