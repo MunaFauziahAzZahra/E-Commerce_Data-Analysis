@@ -25,7 +25,7 @@ Pertanyaan Bisnis:
 3. Mayoritas pelanggan memiliki recency antara 2600-3000 hari, frequency sebesar 1, dan monetary rata-rata di bawah 200, menunjukkan rendahnya loyalitas serta keterlibatan pelanggan, sehingga diperlukan strategi re-engagement dan promosi untuk meningkatkan transaksi.
 
 # URL for Cloud Streamlit
-Access this link for open E-Commerce Dashboard https://e-commercedata-analysis.streamlit.app/
+Access this link for open https://e-commercedata-analysis.streamlit.app/
 
 # Screenshoot Cloud Streamlit
 Total Payment Value by Year with Trendline
