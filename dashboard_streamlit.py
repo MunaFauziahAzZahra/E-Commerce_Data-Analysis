@@ -5,15 +5,15 @@ import seaborn as sns
 import numpy as np
 
 # Load data dari URL
-customers_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/customers_dataset.csv')
-geolocation_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/geolocation_dataset.csv')
-order_items_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/order_items_dataset.csv')
-order_payments_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/order_payments_dataset.csv')
-order_reviews_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/order_reviews_dataset.csv')
-orders_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/orders_dataset.csv')
-product_category_name_translation_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/product_category_name_translation.csv')
-products_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/products_dataset.csv')
-sellers_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/main/sellers_dataset.csv')
+customers_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/customers_dataset.csv')
+geolocation_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/geolocation_dataset.csv')
+order_items_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/order_items_dataset.csv')
+order_payments_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/order_payments_dataset.csv')
+order_reviews_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/order_reviews_dataset.csv')
+orders_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/orders_dataset.csv')
+product_category_name_translation_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/product_category_name_translation.csv')
+products_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/products_dataset.csv')
+sellers_df = pd.read_csv('https://raw.githubusercontent.com/MunaFauziahAzZahra/E-Commerce_Data-Analysis/refs/heads/main/dataset/sellers_dataset.csv')
 
 # Konversi 'order_purchase_timestamp'
 if 'order_purchase_timestamp' in order_items_df.columns:
