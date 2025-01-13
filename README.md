@@ -1,6 +1,18 @@
 # E-Commerce_Data-Analysis
 Belajar Analisis Data dengan Python
 
+# Struktur Direktori
+/dataset: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv .
+dashboard_streamlit.py: Direktori ini berisi main.py yang digunakan untuk membuat dashboard hasil analisis data.
+Muna Fauziah Az Zahra_Proyek Analisis Data.ipynb: File ini yang digunakan untuk melakukan analisis data.
+
+# Setup Environment - Anaconda
+conda activate main-ds
+pip install -r requirements.txt
+
+# Run steamlit app
+streamlit run dashboard_streamlit.py
+
 # Business Understanding
 Pertanyaan Bisnis:
 1. Bagaimana Performa Penjualan dan Revenue Perusahaan dalam Beberapa Tahun Terakhir?
