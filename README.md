@@ -11,17 +11,17 @@ Pertanyaan Bisnis:
 1. Performa penjualan dan revenue selama 3 tahun terakhir terus meningkat bahkan menembus trendline. Titik tertinggi revenue berada di nilai > 10 jt dan total order > 50 rb
 2. Product    
      Top 5 Best Performing product yaitu:
-   1. Bed bath table
-   2. Health beauty
-   3. Computer accessoris
-   4. Furniture decor
-   5. Watches gifts   
+   - Bed bath table
+   - Health beauty
+   - Computer accessoris
+   - Furniture decor
+   - Watches gifts   
       Bottom Worst Performing Product
-   1. Security and services
-   2. Fashion childrens clothes
-   3. Cds dvds musicals
-   4. Home confort 2
-   5. Flowers
+   - Security and services
+   - Fashion childrens clothes
+   - Cds dvds musicals
+   - Home confort 2
+   - Flowers
 3. Mayoritas pelanggan memiliki recency antara 2600-3000 hari, frequency sebesar 1, dan monetary rata-rata di bawah 200, menunjukkan rendahnya loyalitas serta keterlibatan pelanggan, sehingga diperlukan strategi re-engagement dan promosi untuk meningkatkan transaksi.
 
 # URL for Cloud Streamlit
